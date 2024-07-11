@@ -12,7 +12,9 @@
 ```
 
 ## News
-- Next generation of ProxylessNAS: [Once-for-All](https://github.com/mit-han-lab/once-for-all) (First place in the 3rd and 4th [Low-Power Computer Vision Challenge](https://lpcv.ai/competitions/2019)). 
+- ProxylessNAS is integrated into [PytorchHub](https://pytorch.org/hub/pytorch_vision_proxylessnas/).
+- ProxylessNAS is integrated into Microsoft [NNI](https://nni.readthedocs.io/en/v1.6/NAS/Proxylessnas.html).
+- ProxylessNAS is integrated into Amazon [AutoGluon](https://auto.gluon.ai/0.3.0/tutorials/nas/enas_proxylessnas.html).
 - First place in the Visual Wake Words Challenge, TF-lite track, @CVPR 2019
 - Third place in the Low Power Image Recognition Challenge (LPIRC), classification track, @CVPR 2019
 
